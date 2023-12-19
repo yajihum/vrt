@@ -4,4 +4,12 @@ node_modules
 
 .storybook
 
+.DS_Store.reg
+
 .DS_Store
+
+actual
+
+diff
+
+expected
